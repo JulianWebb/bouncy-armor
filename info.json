@@ -1,0 +1,11 @@
+{
+    "name": "BouncyArmor",
+    "version": "0.0.1",
+    "title": "Bouncy Armor",
+    "author": "Pongles",
+    "contact": "None Please",
+    "homepage": "::1",
+    "factorio_version": "0.17",
+    "dependancies": ["base >= 0.17"],
+    "description": "Adds a set of armor that bounces the player away on impact from vehicles."
+}
